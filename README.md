@@ -69,7 +69,7 @@ I'm on a continuous learning journey, currently delving into:
 ### 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nil2k) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoshniloy505@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=carrd&logoColor=white)](mailto:ghoshniloy505@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=carrd&logoColor=white)](https://niilooy.carrd.co)
 
 Let’s connect and grow together in this amazing developer community! 🌍
 
