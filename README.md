@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Current Status
-- **🏢 Work**: Software Engineer [@Cognizant](https://www.cognizant.com/in/en)
+- **🏢 Work**: Jr. Software Engineer [@Cognizant](https://www.cognizant.com/in/en)
 - **🌍 Location**: Kolkata, India
 
 ---
@@ -31,7 +31,6 @@
 ---
 
 ### 📈 GitHub Stats 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=niilooy&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niilooy&hide=html&theme=radical)
 
 ---
