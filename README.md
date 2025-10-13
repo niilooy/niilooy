@@ -6,7 +6,7 @@
 Helping people build cutting-edge applications and overcome complex challenges within the LangChain ecosystem.
 
   - 🌍 **Location**: Kolkata, India
-  - 📧 **Contact**: ghoshniloy505@gmail.com / niloy@langchain.dev
+  - 📧 **Contact**: ghoshniloy505@gmail.com
 
 -----
 
