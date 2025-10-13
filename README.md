@@ -3,10 +3,10 @@
 **Support [@LangChain](https://github.com/langchain-ai)**
 
 -----
-My goal is to help you build cutting-edge applications and overcome complex challenges within the LangChain ecosystem.
+Helping people build cutting-edge applications and overcome complex challenges within the LangChain ecosystem.
 
   - 🌍 **Location**: Kolkata, India
-  - 📧 **Contact**: ghoshniloy505@gmail.com
+  - 📧 **Contact**: ghoshniloy505@gmail.com / niloy@langchain.dev
 
 -----
 
